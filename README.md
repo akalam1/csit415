@@ -1,10 +1,10 @@
 # csit415
 
 ### List of Changes
-*Created a repo as sated 
-*And then 
-*Created a branch and then did commit after some changes in a file
-*Added few random stuff to the readme.md file
+* Created a repo as sated 
+* And then 
+* Created a branch and then did commit after some changes in a file
+* Added few random stuff to the readme.md file
 
 
 
