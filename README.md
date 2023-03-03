@@ -9,4 +9,4 @@
 
 
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.montclair.edu/responsive-media/cache/university-communications/wp-content/uploads/sites/144/2021/01/athletics-logo-wordmark-notm.png.1.2x.generic.jpg) "Logo Title Text 1")
+![alt text](<a href="https://www.clipartmax.com/middle/m2H7H7b1H7Z5G6K9_miami-montclair-state-university-mascot/" target="_blank">Miami - Montclair State University Mascot  "Logo Title Text 1")
